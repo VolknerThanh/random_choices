@@ -1,0 +1,15 @@
+* {
+	margin: 0;
+	padding: 0;
+	outline: none;
+	user-select: none;
+}
+.DisplayFlex{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+h1.web-title{
+	text-transform: uppercase;
+	font-weight: 900;
+}
