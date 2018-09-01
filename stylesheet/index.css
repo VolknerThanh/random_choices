@@ -17,8 +17,8 @@ h1.web-title{
 	margin-top: 2em;
 }
 .choices-container #choices{
-	display: none;
+	
 }
 .choices-container #choices .choice{
-	
+	/* display: none; */
 }
