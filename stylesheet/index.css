@@ -13,3 +13,10 @@ h1.web-title{
 	text-transform: uppercase;
 	font-weight: 900;
 }
+.choices-container{
+	margin-top: 2em;
+}
+.choices-container .choice{
+	text-align: center;
+	
+}
