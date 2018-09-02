@@ -17,7 +17,10 @@ h1.web-title{
 	margin-top: 2em;
 }
 .choices-container #choices{
-
+	width: 20%;
+	height: 30px;
+	text-align: center;
+	border: 3px solid black;
 }
 .choices-container #choices .choice{
 	font-size: 15px;
