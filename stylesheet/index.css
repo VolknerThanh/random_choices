@@ -16,7 +16,7 @@ h1.web-title{
 .roll-button{
 	position: absolute;
 	top: 200px;
-	right: 200px;
+	right: 500px;
 }
 .choices-container{
 	margin-top: 2em;
@@ -39,5 +39,5 @@ h1.web-title{
 	width: 350px;
 	height: 30px;
 	text-align: center;
-	border: 3px solid black;
+	border: 3px solid red;
 }
