@@ -16,17 +16,23 @@ h1.web-title{
 .choices-container{
 	margin-top: 2em;
 }
-.choices-container #choices{
-	width: 20%;
-	height: 30px;
-	text-align: center;
-	border: 3px solid black;
+.choices-container{
+	position: relative;
 }
 .choices-container #choices .choice{
 	font-size: 15px;
 	font-weight: 700;
 	text-transform: uppercase;
+	line-height: 30px;
 }
 .hide{
 	display: none;
+}
+.choices-container .border{
+	position: absolute;
+	top: 30px;
+	width: 350px;
+	height: 30px;
+	text-align: center;
+	border: 3px solid black;
 }
