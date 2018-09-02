@@ -13,13 +13,18 @@ h1.web-title{
 	text-transform: uppercase;
 	font-weight: 900;
 }
+.roll-button{
+	position: absolute;
+	top: 200px;
+	right: 200px;
+}
 .choices-container{
 	margin-top: 2em;
 }
 .choices-container{
 	position: relative;
 }
-.choices-container #choices .choice{
+.choices-container .choice{
 	font-size: 15px;
 	font-weight: 700;
 	text-transform: uppercase;
